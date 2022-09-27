@@ -2,6 +2,7 @@
 export function process(inputData, output) {
     output.countryOrder = [
       "EU",
+      "EA19",
       "-",
       "AT",
       "BE",
