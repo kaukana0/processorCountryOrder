@@ -2,7 +2,7 @@
 export function process(inputDataFromRequest, inputDataFromCfg, output) {
     output.countryOrder = [
       "EU",
-      "EA",
+//      "EA",
       "-",
       "AT",
       "BE",
