@@ -33,6 +33,7 @@ export function process(inputDataFromRequest, inputDataFromCfg, output) {
       "SE",
       "-",
       "IS",
+      "LI",
       "NO",
       "CH",
       ]
